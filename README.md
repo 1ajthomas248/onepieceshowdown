@@ -53,6 +53,6 @@ Welcome to **One Piece Showdown**, an exciting and dynamic fighting game built u
 
 ## **Credits**
 
-**Fighter's Arena** was developed by [Your Name](https://github.com/yourusername) and contributors. Special thanks to the Pygame community for their support and resources.
+**Fighter's Arena** was developed by [myself](https://github.com/1ajthomas248). Special thanks to the DevianArt community for being a huge source for the images. All credit for art goes to the respective artists.
 
 
