@@ -12,7 +12,7 @@ Welcome to **One Piece Showdown**, an exciting and dynamic fighting game built u
 
 ## **Game Description**
 
-**Fighter's Arena** is a 2D fighting game where players can choose from a variety of characters, each with unique abilities and moves. The game features multiple game modes, including solo battles, squad battles, and boss fights. Players must strategically use their moves to defeat opponents and emerge victorious.
+**One Piece Showdown** is a 2D fighting game where players can choose from a variety of characters, each with unique abilities and moves. The game features multiple game modes, including solo battles, squad battles, and boss fights. Players must strategically use their moves to defeat opponents and emerge victorious.
 
 ## **Game Modes**
 
